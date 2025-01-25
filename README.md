@@ -27,5 +27,12 @@ O objetivo desse projeto é colocar em prática o que foi aprendido durante as a
 
 ## Tela de Aplicação
 ![Captura de Tela (155)](https://github.com/user-attachments/assets/d43af1ce-540a-4a64-a795-dfabcab1a128)
-
+![Captura de Tela (156)](https://github.com/user-attachments/assets/f478eac3-4c77-4aaa-90df-08d686ee5f7a)
+![Captura de Tela (157)](https://github.com/user-attachments/assets/f54cc088-eeb9-415d-9794-add3ec1a25f1)
+![Captura de Tela (158)](https://github.com/user-attachments/assets/4e684d51-01e0-4ad8-a960-44a5cc510173)
+![Captura de Tela (159)](https://github.com/user-attachments/assets/31a5c398-c874-4afa-94c2-8f3589f12d89)
+![Captura de Tela (160)](https://github.com/user-attachments/assets/73e73dbd-4430-4aa8-8814-ca188478a3fb)
+![Captura de Tela (161)](https://github.com/user-attachments/assets/d0c393c4-054d-4f11-931b-4dd760c1e1b8)
+![Captura de Tela (162)](https://github.com/user-attachments/assets/d34d08a6-8068-4ef8-ae02-8572024ca0a8)
+![Captura de Tela (163)](https://github.com/user-attachments/assets/733a1ea5-26ef-4fe6-a473-dbab2ad2070d)
 
