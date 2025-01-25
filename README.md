@@ -2,21 +2,15 @@
 - 🔭 Hejo Trabalho nua Empresa de Telecomunicações, e sou Aluno de Analise Desenvolvimento de Sistema
 - 🌱 Estou fazendo cursos na Alura
 -->
+# CHALLENGE - Amigo Secreto
+<img src='https://tenor.com/pt-BR/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149.gif' width="200"/>
+O objetivo desse projeto é colocar em prática o que foi aprendido durante as aulas de lógica de programação.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
+## Linguagens e ferramentas utilizadas:
+![HTML](https://img.shields.io/badge/HTML-gray?logo=html5&logoColor=%23E34F26)
+![CSS](https://img.shields.io/badge/CSS-gray?logo=css&logoColor=%23663399)
+![Javascript](https://img.shields.io/badge/Javascript-gray?logo=javascript&logoColor=%23F7DF1E)
 ##
-
-
-
 
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
