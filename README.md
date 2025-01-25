@@ -25,7 +25,7 @@ O objetivo desse projeto é colocar em prática o que foi aprendido durante as a
 <li>Validar quantidade de pessoas: Se houver menos do que duas pessoas, não será possível fazer o sorteio, nem faria sentido sortear.</li></ul>
 
 
-
+## Tela de Aplicação
 ![Captura de Tela (155)](https://github.com/user-attachments/assets/d43af1ce-540a-4a64-a795-dfabcab1a128)
 
 
